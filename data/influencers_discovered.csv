@@ -1,0 +1,56 @@
+name,platform,follower_count,engagement_rate,niche,contact_email,profile_url,content_themes,initial_status
+Patrick Loeber,YouTube,86400,4.1,AI & Python Development,patrick@python-engineer.com,https://www.youtube.com/@patloeber,"Python Programming, Machine Learning, PyTorch Tutorials, Data Structures",Discovered
+Sam Witteveen,YouTube,78200,5.4,Generative AI & LLMs,sam@witteveen.ai,https://www.youtube.com/@samwitteveenai,"Large Language Models, LangChain, Open Source AI, RAG Systems",Discovered
+AI Jason,YouTube,92300,6.2,AI Automation & Agents,jason@aijason.com,https://www.youtube.com/@AIJasonZ,"Autonomous AI Agents, No-Code AI Workflows, LangGraph, AI SaaS",Discovered
+Dave Ebbelaar,YouTube,64500,4.8,AI Engineering & Data,dave@datalumina.com,https://www.youtube.com/@daveebbelaar,"AI Application Architecture, Vector Search, Cloud Deployments, OpenAI APIs",Discovered
+James Briggs,YouTube,71800,4.5,Vector Search & NLP,Not Found,https://www.youtube.com/@jamesbriggs,"Vector Databases, Embeddings, Hugging Face, Semantic Search",Discovered
+Shaw Talebi,YouTube,48900,5.9,Data Science & Math for ML,shaw@shawtalebi.com,https://www.youtube.com/@shaw-talebi,"Mathematics of Neural Networks, Data Science Foundations, Python ML",Discovered
+Pixegami,YouTube,68200,4.6,Cloud & Serverless AI,contact@pixegami.io,https://www.youtube.com/@pixegami,"AWS Serverless, FastAPI Cloud Deployment, RAG with Python, Docker",Discovered
+All About AI (Kris),YouTube,83400,5.1,AI Prompting & Automation,business@allaboutai.tech,https://www.youtube.com/@AllAboutAI,"Prompt Engineering, Open Source LLMs, Claude & GPT-4o Workflows, Ollama",Discovered
+1littlecoder (AbdulMajed),YouTube,62100,4.3,Open Source AI & Notebooks,abdul@1littlecoder.com,https://www.youtube.com/@1littlecoder,"Hugging Face Demos, Google Colab AI Tutorials, Open Source LLMs, Gradio",Discovered
+Prompt Engineering,YouTube,94100,5.8,Local LLMs & AI Tools,contact@promptengineering.us,https://www.youtube.com/@PromptEngineering,"Local LLM Benchmarking, vLLM Setup, CrewAI Tutorials, Quantization",Discovered
+Sundas Khalid,YouTube,89200,5.2,Data Science & Tech Careers,sundas@sundaskhalid.com,https://www.youtube.com/@SundasKhalid,"Data Science Roadmaps, SQL & Python, Tech Career Transition, Google Analytics",Discovered
+Mischa van den Burg,YouTube,31400,4.9,DevOps & Platform Engineering,mischa@mischavandenburg.com,https://www.youtube.com/@MischavandenBurg,"Kubernetes, GitOps, Terraform, CI/CD Pipelines, Linux Tools",Discovered
+CodeWithTomi,YouTube,76500,3.9,Beginner Python & Automation,tomi@codewithtomi.com,https://www.youtube.com/@CodeWithTomi,"Python Mini Projects, Web Scraping with BeautifulSoup, Flask APIs",Discovered
+Data Science Jay,YouTube,52100,4.2,Data Science Interviews & SQL,jay@interviewquery.com,https://www.youtube.com/@DataScienceJay,"Data Science Coding Challenges, SQL Mock Interviews, Product Sense AI",Discovered
+Greg Hogg,YouTube,43200,4.7,Machine Learning & Algorithms,greghogg@gmail.com,https://www.youtube.com/@GregHogg,"Deep Learning Math, Python Scikit-Learn, TensorFlow Architecture",Discovered
+Jason Goodison,YouTube,68400,5.5,Software Engineering & LeetCode,contact@jasongoodison.com,https://www.youtube.com/@JasonGoodison,"Software Engineering Internships, Coding Interviews, React & Node.js",Discovered
+Keep On Coding,YouTube,87300,3.8,Algorithm Problem Solving,Not Found,https://www.youtube.com/@KeepOnCoding,"Data Structures, Dynamic Programming, Python LeetCode Solutions",Discovered
+Coding with Lewis,YouTube,98100,6.8,Modern Web & Developer Culture,lewis@codingwithlewis.com,https://www.youtube.com/@CodingWithLewis,"Web Development Trends, TypeScript, Next.js 15, Developer Lifestyle",Discovered
+Internet Made Coder,YouTube,95400,5.0,Self-Taught Coding & AI Workflows,tuoma@internetmadecoder.com,https://www.youtube.com/@InternetMadeCoder,"Self-Taught Programmer Roadmap, Learning AI Tools, Python Productivity",Discovered
+WorldofAI,YouTube,81200,4.4,AI Tools & GitHub Repositories,worldofaibusiness@gmail.com,https://www.youtube.com/@WorldofAI-official,"Trending AI GitHub Repos, AutoGPT, Voice AI Agents, Ollama Models",Discovered
+NeuralNine,YouTube,99400,4.7,Python & Machine Learning Projects,contact@neuralnine.com,https://www.youtube.com/@NeuralNine,"Neural Networks from Scratch, Socket Programming, Financial Python",Discovered
+Thu Vu data analytics,YouTube,94800,5.6,Data Analytics & Portfolio Projects,thuvu.analytics@gmail.com,https://www.youtube.com/@ThuVudataanalytics,"Data Analytics Roadmaps, PowerBI & Tableau, Python for Analytics, Portfolio Tips",Discovered
+DevOps Toolkit (Viktor Farcic),YouTube,91500,3.7,Cloud Native & Kubernetes,viktor@devopstoolkitseries.com,https://www.youtube.com/@DevOpsToolkit,"Crossplane, ArgoCD, Kubernetes Operators, Platform Engineering",Discovered
+DevasLife,YouTube,88700,7.4,Developer Lifestyle & Craft,craftzdog@gmail.com,https://www.youtube.com/@devaslife,"Neovim Configuration, Desk Setup, React Native, Lo-Fi Coding Sessions",Discovered
+Elena Verna,Substack / LinkedIn,62000,6.8,Product-Led Growth & B2B AI,elena@elenaverna.com,https://elenaverna.substack.com,"PLG Metrics, B2B SaaS Monetization, AI Product Growth, Freemium Conversion",Discovered
+Stefan Mischook,YouTube,73200,3.4,Web Architecture & Mentorship,stefan@stefanmischook.com,https://www.youtube.com/@stefanmischook,"Full-Stack Architecture, Software Career longevity, PHP vs Node, Freelancing",Discovered
+Caleb Curry,YouTube,84500,3.6,Database Systems & C++,caleb@calebcurry.com,https://www.youtube.com/@CalebTheVideoMaker2,"Database Design Normalization, SQL Masterclasses, C++ Fundamentals",Discovered
+Siddharth Bhatia,YouTube,27800,4.6,Fullstack Cloud Apps,contact@siddharthbhatia.dev,https://www.youtube.com/@siddharthbhatiadev,"Microservices in Go, Docker & Kubernetes, Kafka Event Streams",Discovered
+Priyanka Vergadia,YouTube,59300,5.7,Visual Cloud Computing,thecloudgirl.contact@gmail.com,https://www.youtube.com/@TheCloudGirl,"Visualizing Cloud Architecture, Google Cloud AI, Kubernetes Sketches",Discovered
+Adrian Twarog,YouTube,89500,4.1,UI/UX & Web Development,adrian@adriantwarog.com,https://www.youtube.com/@AdrianTwarog,"Figma to Code, Tailwind CSS, React Component Libraries, Webflow",Discovered
+Bek Brace,YouTube,41200,3.8,Backend & Cloud Tutorials,bek@bekbrace.com,https://www.youtube.com/@BekBrace,"FastAPI, MongoDB Aggregation, GraphQL in Python, Docker Compose",Discovered
+Karthik Kalyan,YouTube,34600,4.9,Computer Vision & Edge AI,karthik.kalyan.ai@gmail.com,https://www.youtube.com/@KarthikKalyanAI,"YOLOv10 Object Detection, OpenCV with Python, Raspberry Pi AI",Discovered
+Matthias Noback,Tech Blog & YouTube,22400,4.1,Software Architecture & DDD,matthias@noback.nl,https://matthiasnoback.nl,"Domain-Driven Design, Hexagonal Architecture, Clean Code Principles",Discovered
+Sophia Yang,YouTube / Medium,38700,5.3,Open-Source Python & SciPy,sophia@sophiayang.com,https://www.youtube.com/@SophiaYangData,"Anaconda Ecosystem, Data Visualization with HoloViews, Python Ecosystem",Discovered
+Tech With Lucy,YouTube,89700,5.9,Cloud Certifications & AWS,lucy@techwithlucy.com,https://www.youtube.com/@TechWithLucy,"AWS Solutions Architect, Cloud Career Roadmaps, Hands-on AWS Labs",Discovered
+Nate Moore (StrataScratch),YouTube,58900,3.9,Data Science LeetCode & SQL,support@stratascratch.com,https://www.youtube.com/@StrataScratch,"FAANG SQL Questions, Python Pandas for Interviews, Data Analytics Case Studies",Discovered
+Tina Huang (Data Mentor),YouTube,96800,6.1,AI Productivity & Data Science,tina@tinahuang.co,https://www.youtube.com/@TinaHuang1,"Learning Data Science Efficiently, AI Study Hacks, SQL & Python Habits",Discovered
+Hedu AI (Hamza),YouTube,23900,5.2,Modern Computer Vision & PyTorch,hamza@hedu.ai,https://www.youtube.com/@HeduAI,"Diffusion Models from Scratch, Stable Diffusion Architecture, PyTorch Lightning",Discovered
+Danielle Thé,YouTube,18400,4.5,AI Product Management & Ethics,danielle@daniellethe.com,https://www.youtube.com/@DanielleTheAI,"AI Product Strategy, Ethics in Machine Learning, Executive AI Briefings",Discovered
+Devin AI Experiments (Alex),YouTube,14200,5.8,Coding Agent Evaluation,alex@agenticdev.io,https://www.youtube.com/@AlexDevinExperiments,"Autonomous Coding Benchmarks, SWE-bench Analysis, Agentic IDEs",Discovered
+Tech Savvy Mark,Instagram / TikTok,47200,4.4,"Hardware, Gadgets & Developer Desks",mark@techsavvymedia.com,https://www.instagram.com/techsavvymark,"Mechanical Keyboards, OLED Monitors for Coding, Ergonomics, Mac Mini Setups",Discovered
+Coding Strummer,YouTube,11300,4.1,Rust Programming & Systems,strummer.code@gmail.com,https://www.youtube.com/@codingstrummer,"Rust Memory Safety, Async Tokio, Building CLI Tools in Rust",Discovered
+Tech With Tim,YouTube,1420000,2.8,Python Tutorials,tim@techwithtim.net,https://www.youtube.com/@TechWithTim,"Python Projects, Web Development, AI Basics",Discovered
+FreeCodeCamp,YouTube,9800000,1.2,Software Engineering Courses,quincy@freecodecamp.org,https://www.youtube.com/@freecodecamp,"Full Courses, Certifications, Web Dev",Discovered
+Web Dev Simplified (Kyle),YouTube,1540000,3.1,Frontend Web Development,kyle@webdevsimplified.com,https://www.youtube.com/@WebDevSimplified,"JavaScript, React Hooks, CSS Tricks",Discovered
+Joma Tech,YouTube,2200000,4.5,Tech Comedy & Silicon Valley,joma@jomatech.io,https://www.youtube.com/@jomaoppa,"Tech Satire, Silicon Valley Skits, Day in the Life",Discovered
+Krish Naik,YouTube,920000,2.1,Data Science & AI,krishnaik06@gmail.com,https://www.youtube.com/@krishnaik06,"Machine Learning Roadmaps, Deep Learning with PyTorch, Generative AI",Discovered
+CryptoMoonBoy99,TikTok,28400,0.6,Meme Coins & Pump Signals,moonboy99crypto@tempmail.com,https://www.tiktok.com/@cryptomoonboy99,"100x Gems, Meme Tokens, Day Trading Pumps",Discovered
+GlamByJessica,Instagram,34500,3.9,Bridal Makeup & Skincare,glambyjessicabiz@gmail.com,https://www.instagram.com/glambyjessica_makeup,"Bridal Contouring, Drugstore Dupes, Lipstick Swatches",Discovered
+ZombieBotScraper,YouTube,18500,0.3,Scraped AI Re-uploads,Not Found,https://www.youtube.com/@zombie_bot_scraper_arch,"Synthesized Voices, Automated Slide Re-uploads",Discovered
+DevStarterIndrek,YouTube,1200,6.5,Coding Notebooks,devstarter@gmail.com,https://www.youtube.com/@devstarter_indrek,"First Python Script, Hello World",Discovered
+ByteSizeFitness,Instagram,42000,4.1,Home Workouts & Nutrition,fitbyte@bytesizefitness.com,https://www.instagram.com/bytesizefitness,"Calisthenics, High Protein Meal Prep, Kettlebell Workouts",Discovered
+GhostCoder1337,YouTube,750,1.2,Arch Linux Configs,Not Found,https://www.youtube.com/@ghostcoder1337,"Dotfiles, Terminal Colors",Discovered
+DeadChannelTechArchive,YouTube,44000,0.4,Abandoned Flash Tutorials,Not Found,https://www.youtube.com/@deadchanneltecharchive,"ActionScript 2.0, Flash Animation",Discovered
+Dr. Angela Yu (Macro),YouTube,780000,3.2,Web Dev Bootcamps,angela@appbrewery.co,https://www.youtube.com/@appbrewery,"100 Days of Code, Python Bootcamps, iOS Development",Discovered
